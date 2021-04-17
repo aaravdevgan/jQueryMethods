@@ -1,0 +1,27 @@
+body{
+    background-image:url('https://designshack.net/wp-content/uploads/background-textures.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
+
+h1{
+    margin: 20px auto;
+border: 1px solid beige;
+width: max-content;
+margin-bottom: 0px;
+}
+
+#author{
+    text-align: center;
+    color: bisque;
+margin-top: 10px !important;
+}
+button,#append{
+    display: inline-block;
+}
+.dbutton{
+color: white;
+background-color: rgb(71, 71, 71);
+}
